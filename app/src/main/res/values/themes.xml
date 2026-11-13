@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Definición del tema base para la aplicación SMATO, heredando del estilo sin barra de acciones de Material Design. -->
+    <style name="Theme.SMATO" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>

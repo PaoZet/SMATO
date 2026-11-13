@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Reglas de extracción de datos para copias de seguridad y transferencia de dispositivos.
+   Consulta https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   para obtener más detalles sobre su configuración.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Utiliza las etiquetas <include> y <exclude> para controlar qué directorios o archivos se respaldan en la nube.
+        <include .../>
+        <exclude .../>
+        -->
+    </cloud-backup>
+    <!--
+    <device-transfer>
+        <include .../>
+        <exclude .../>
+    </device-transfer>
+    -->
+</data-extraction-rules>

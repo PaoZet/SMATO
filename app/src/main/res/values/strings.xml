@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre principal de la aplicación mostrado en el launcher y la interfaz del sistema. -->
+    <string name="app_name">SMATO</string>
+</resources>
